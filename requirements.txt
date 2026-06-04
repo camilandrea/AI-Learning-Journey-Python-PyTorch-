@@ -1,0 +1,30 @@
+# Core
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# NLP
+transformers
+tokenizers
+
+# RL
+gymnasium
+
+# Notebooks
+jupyter
+jupyterlab
+ipykernel
+ipywidgets
+
+# Utilities
+tqdm
+Pillow
+opencv-python
