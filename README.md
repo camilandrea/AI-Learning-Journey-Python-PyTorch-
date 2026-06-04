@@ -62,3 +62,17 @@ jupyter notebook
 - Python 3.10+
 - Jupyter Notebook o JupyterLab
 - GPU opcional (CUDA compatible para PyTorch)
+
+## Entorno verificado
+
+| Paquete | Versión |
+|---|---|
+| Python | 3.12.9 |
+| PyTorch | 2.12.0 (CPU) |
+| NumPy | 2.4.6 |
+| Pandas | 3.0.3 |
+| Scikit-learn | 1.9.0 |
+| Matplotlib | 3.10.9 |
+| Jupyter | 5.9.1 |
+
+> **Nota:** PyTorch se instaló en modo CPU. Si en algún momento quieres usar GPU (NVIDIA), podemos instalarlo con soporte CUDA por separado.
