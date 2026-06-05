@@ -75,4 +75,3 @@ jupyter notebook
 | Matplotlib | 3.10.9 |
 | Jupyter | 5.9.1 |
 
-> **Nota:** PyTorch se instaló en modo CPU. Si en algún momento quieres usar GPU (NVIDIA), podemos instalarlo con soporte CUDA por separado.
